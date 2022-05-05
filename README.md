@@ -1,4 +1,4 @@
-<h2> Hey there 👋 Coders! </h2>
+<h2> Hey there, technologist💻 ! </h2>
 
 <h3>I'm Pratiksha,</h3>
 
